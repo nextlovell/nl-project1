@@ -1,0 +1,17 @@
+h1{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	padding: 10px;
+}
+
+#karenspic{
+	width: 500px;
+	height: auto;
+}
+
+.left{
+	background-color:red;
+	float: left;
+}
